@@ -22,7 +22,7 @@ This dashboard leverages robust SQL queries (see the included query document) an
 ## Data & Validation Process
 
 - **SQL Queries:**  
-  All key metrics and breakdowns were first queried and validated in SQL, as documented in [`Query-Document-upd.docx`](./Query-Document-upd.docx).
+  All key metrics and breakdowns were first queried and validated in SQL, as documented in [`Query-Document-upd.docx`](https://github.com/SahiLmb/Bank-Loan-Insights-Dashboard/blob/main/Query%20Document%20upd.docx).
 - **Power BI (DAX) Implementation:**  
   SQL logic was then faithfully reproduced using DAX in Power BI, and results **cross-verified** to ensure consistency and accuracy.
 - **Efficient Filtering:**  
