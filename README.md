@@ -101,7 +101,7 @@ WHERE loan_status = 'Fully Paid' OR loan_status = 'Current'
 
 - **Bank-Loan-Report-Analysis.pdf** — Exported PDF of the Power BI dashboard visuals and summaries.
 - **Query-Document-upd.docx** — All SQL queries, filter logic, and KPI definitions for validation and reference.
-
+- **financial_loans.csv** — dataset used for querying the results
 ---
 
 ## License
