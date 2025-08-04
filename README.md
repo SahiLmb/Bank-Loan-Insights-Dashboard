@@ -10,7 +10,7 @@ This dashboard leverages robust SQL queries (see the included query document) an
 
 ## Features
 
-- **Dynamic KPIs:** Instantly track applications, funding, receipts, interest rates, DTI, and “good vs. bad” loan rates.
+- **Dynamic KPIs:** Instantly track applications, funding, receipts, interest rates, DTI(Debt to Income ratio), and “good vs. bad” loan rates.
 - **Drilldown Analytics:** Slice data by state, employee length, purpose, home ownership, grade, and term.
 - **Executive Summary & Detailed Views:** Progress seamlessly from high-level metrics to record-level details.
 - **Field Parameters:** Easily toggle between multiple fields or breakdowns within a single chart for deeper insights.
