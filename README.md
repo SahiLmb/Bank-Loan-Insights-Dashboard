@@ -8,6 +8,16 @@ This dashboard leverages robust SQL queries (see the included query document) an
 
 ---
 
+## Dashboard 
+
+![Dashboard page 1](https://github.com/SahiLmb/Bank-Loan-Insights-Dashboard/blob/main/Dashboard%20Snapshots/Bank%20Loan%20Report%20Analysis_page-0001.jpg)
+
+![Dashboard page 2](https://github.com/SahiLmb/Bank-Loan-Insights-Dashboard/blob/main/Dashboard%20Snapshots/Bank%20Loan%20Report%20Analysis_page-0002.jpg)
+
+![Dashboard page 3](https://github.com/SahiLmb/Bank-Loan-Insights-Dashboard/blob/main/Dashboard%20Snapshots/Bank%20Loan%20Report%20Analysis_page-0003.jpg)
+
+---
+
 ## Features
 
 - **Dynamic KPIs:** Instantly track applications, funding, receipts, interest rates, DTI(Debt to Income ratio), and “good vs. bad” loan rates.
