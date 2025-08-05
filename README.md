@@ -104,6 +104,10 @@ WHERE loan_status = 'Fully Paid' OR loan_status = 'Current'
 - **financial_loans.csv** — dataset used for querying the results
 ---
 
+## Project Video
+I encourage you all to watch the project video for better understanding and feel free to ask any doubts in the comment section .
+- [Project Video Link](https://www.youtube.com/watch?v=u2e9xOb2wS4)
+
 ## License
 
 Released under the MIT License.
